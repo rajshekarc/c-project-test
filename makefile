@@ -13,4 +13,4 @@ main.o:main.c
 	gcc -c main.c
 
 clean:
-	git rm -rf *.o ABC.exe
+	rm -rf *.o ABC.exe
