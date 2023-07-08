@@ -5,7 +5,7 @@ void reverse()
 
   int n, reverse = 0, remainder;
 
-  printf("Enter an integer: ");
+  printf("\nEnter an integer: ");
   scanf("%d", &n);
 
   while (n != 0) {
