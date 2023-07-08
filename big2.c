@@ -5,7 +5,7 @@
 void biggest()
 {
     int a, b;
-    printf("Please Enter Two different values\n");
+    printf("Please Enter Two different values to find biggest\n");
     scanf("%d %d", &a, &b);
 
     if(a > b)
